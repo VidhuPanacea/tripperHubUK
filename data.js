@@ -106,6 +106,252 @@ const allPackages = [...packages,
     description: "",
     suggested: [{}]
 },
+
+{
+    id: 11,
+    name: "Charm Of Ranikhet",
+    duration: "2 Nights - 3 Days",
+    destinations: "Ranikhet",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 12,
+    name: "Charm Of Ranikhet",
+    duration: "2 Nights - 3 Days",
+    destinations: "Ranikhet",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 13,
+    name: "Best Of Kumaon Hills",
+    duration: "5 Nights - 6 Days",
+    destinations: "Kumaon",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 14,
+    name: "Nainital With Mukteshwar",
+    duration: "3 Nights - 4 Days",
+    destinations: "Kumaon",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 15,
+    name: "Nainital With Ranikhet Tour",
+    duration: "3 Nights - 4 Days",
+    destinations: "Kumaon",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 16,
+    name: "Nainital Dhikala Tour",
+    duration: "4 Nights - 5 Days",
+    destinations: "Nainital",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 17,
+    name: "Nanital With Queen Of Hills",
+    duration: "6 Nights - 7 Days",
+    destinations: "Nainital",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 18,
+    name: "Charm Of Kumaon Hills",
+    duration: "7 Nights - 8 Days",
+    destinations: "Nainital",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 19,
+    name: "Splendors Of Nainital With Auli",
+    duration: "9 Nights - 10 Days",
+    destinations: "Nainital, Auli",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 20,
+    name: "Mussoorie With Rishikesh",
+    duration: "3 Nights - 4 Days",
+    destinations: "Mussoorie, Rishikesh",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 20,
+    name: "Mussoorie With Rishikesh",
+    duration: "3 Nights - 4 Days",
+    destinations: "Mussoorie",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 40,
+    name: "Hills And Ganges Tour",
+    duration: "3 Nights - 4 Days",
+    destinations: "Mussoorie",
+    category: "Family",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 41,
+    name: "Mussoorie Honeymoon Package",
+    duration: "4 Nights - 5 Days",
+    destinations: "Mussoorie",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 42,
+    name: "Uttarakhand Honeymoon Tour",
+    duration: "6 Nights - 7 Days",
+    destinations: "Nainital",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 43,
+    name: "Nainital Honeymoon Tour Package",
+    duration: "3 Nights - 4 Days",
+    destinations: "Nainital",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 44,
+    name: "Mussoorie Chamba Rishikesh Honeymoon Tour",
+    duration: "6 Nights - 7 Days",
+    destinations: "Mussoorie, Chamba, Rishikesh",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 45,
+    name: "Mussoorie Rishikesh Honeymoon Tour",
+    duration: "4 Nights - 5 Days",
+    destinations: "Mussoorie, Chamba, Rishikesh",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 46,
+    name: "Nainital Almora Binsar Honeymoon Tour",
+    duration: "6 Nights - 7 Days",
+    destinations: "Almora, Nainital",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 47,
+    name: "Nainital Ranikhet Kausani Honeymoon Tour",
+    duration: "6 Nights - 7 Days",
+    destinations: "Nainital, Ranikhet, Kausani",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+}
+,
+{
+    id: 48,
+    name: "Nainital Corbett Honeymoon Tour",
+    duration: "5 Nights - 6 Days",
+    destinations: "Nainital, Ranikhet, Kausani",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 49,
+    name: "Nainital Mukteshwar Honeymoon Tour",
+    duration: "5 Nights - 6 Days",
+    destinations: "Nainital, Mukteshwar",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+}
+,
+{
+    id: 50,
+    name: "Jageshwar Dham Tour",
+    duration: "5 Nights - 6 Days",
+    destinations: "Almora",
+    category: "Honeymoon",
+    price: "",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+}
+},
 {
     id: 21,
     name: "Kaudiyala To Rishikesh River Rafting",
