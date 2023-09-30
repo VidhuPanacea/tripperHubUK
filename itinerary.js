@@ -59,19 +59,65 @@ const itineraries = [{
         </div>
     </div>
 </div>`
-}];
+},
 
-var urlParams = new URLSearchParams(window.location.search)
-let pkgId = urlParams.get('id');
-var itinerary = document.querySelector('#itinerary');
+{
+    id: 2,
+    packageId: 10,
+    itinerary: `<div class="itinerary-cont accordion-box">
+    <h3>Itinerary</h3>
+    <div class="itinerary-cont-box accordion-item is-active">
+       <span>Day 1</span>
+             <div class="accordion-thumb">
+          <h4>DELHI - NAINITAL (320 KMS / 08 HRS)&lt;</h4>
+          <ul class="tags">
+             <li>Arrival Transfer</li>
+             <li>Sightseeing tour</li>                           
+             <li>Lunch</li>
+             <li>Dinner</li>
+          </ul>
+       </div>
+       <div class="accordion-panel">
+          <h5>Other Benfits (On Arrival) </h5>
+          <ul class="Benfits">
+             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+                Breakfast
+             </li>
+             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+                Transfers
+             </li>
+             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+                Stay Included
+             </li>
+          </ul>
+            <p>Morning pick from Delhi and drive to captivating Nainital. upon arrival Nainital check in at Hotel. evening free for leisure, Overnight stay at the hotel.</p>
+       </div>                    
+    </div>
+     <div class="itinerary-cont-box accordion-item">
+       <span>Day 2</span>
+             <div class="accordion-thumb">
+          <h4>Nainital</h4>
+       </div>
+       <div class="accordion-panel">
+          <p>After breakfast, start the lake tour of Nainital including Naukuchiatal, Bhimtal, Malli Tal and Khurpa Tal. Evening you can either do shopping in the Mall Road or enjoy boat ride in Naini Lake and visit Naina Devi Temple. Overnight stay at the hotel.</p>
+       </div>
+    </div>
+    <div class="itinerary-cont-box accordion-item">
+       <span>Day 3</span>
+             <div class="accordion-thumb">
+          <h4>Nainital - Delhi</h4>
+       </div>
+       <div class="accordion-panel">                        
+          <p>After breakfast head back to Delhi. Upon arrival at Delhi, drive to your home.</p>
+          <p><strong>Tour and Services ends</strong></p>
+       </div>
+    </div>        
+ </div>`
+}
 
 
-let iti = itineraries.filter(p => p.pkgId == pkgId)[0];
+];
 
-const div = document.createElement("div")
-div.className = " fadeInUp ftco-animate ftco-animated"
-div.innerHTML = iti.itinerary
-itinerary.appendChild(div) //finally appends the above code into the DOM
 
 
 // itineraries.map(function (iti) {
