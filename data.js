@@ -94,18 +94,7 @@ const packages = [{
     suggested: [{}]
 }]
 
-const allPackages = [...packages, {
-    id: 9,
-    name: "River Rafting Tour",
-    duration: "1 Nights / 2 Days",
-    destinations: "Bhrampuri to Rishikesh",
-    category: "Adventure",
-    price: "35,999",
-    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    description: "",
-    suggested: [{}]
-},
-
+const allPackages = [...packages,
 {
     id: 10,
     name: "Natural Nainital",
@@ -116,14 +105,229 @@ const allPackages = [...packages, {
     image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     description: "",
     suggested: [{}]
-}
-
-
+},
+{
+    id: 21,
+    name: "Kaudiyala To Rishikesh River Rafting",
+    duration: "2 Nights / 3 Days",
+    destinations: "Kaudiyala To Rishikesh",
+    category: "Adventure",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+}, {
+    id: 22,
+    name: "Marine Drive to Rishikesh Tour",
+    duration: "2 Nights / 3 Days",
+    destinations: "Marine Drive to Rishikesh",
+    category: "Adventure",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 23,
+    name: "Chopta Chandrashila Trek",
+    duration: "4 Nights / 5 Days",
+    destinations: "Chopta, Chandrashila",
+    category: "Trekking and Hiking",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 24,
+    name: "Nanda Devi Trek",
+    duration: "8 Nights / 9 Days",
+    destinations: "Nanda Devi",
+    category: "Trekking and Hiking",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+}, {
+    id: 25,
+    name: "Har Ki Dun Trek",
+    duration: "8 Nights / 9 Days",
+    destinations: "Har ki Dun",
+    category: "Trekking and Hiking",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 26,
+    name: "Valley Of Flowers Trek",
+    duration: "6 Nights / 7 Days",
+    destinations: "Valley Of Flowers, Chamoli",
+    category: "Trekking and Hiking",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 27,
+    name: "Adi Kailash Trek",
+    duration: "23 Nights / 24 Days",
+    destinations: "Adi Kailash",
+    category: "Trekking and Hiking",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 28,
+    name: "Nanda Devi East Base Camp",
+    duration: "16 Nights / 17 Days",
+    destinations: "Nanda Devi",
+    category: "Trekking and Hiking",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 29,
+    name: "Sunderdhunga BC Trek",
+    duration: "12 Nights / 13 Days",
+    destinations: "Sunderdhunga",
+    category: "Trekking and Hiking",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+}, {
+    id: 30,
+    name: "Kedarnath And Badrinath Yatra Package",
+    duration: "7 Nights / 8 Days",
+    destinations: "Kedarnath, Badrinath",
+    category: "Pilgrimage",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 31,
+    name: "Yamunotri Gangotri Package",
+    duration: "6 Nights / 7 Days",
+    destinations: "Yamunotri, Gangotri",
+    category: "Pilgrimage",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 32,
+    name: "Hemkund Sahib Yatra",
+    duration: "6 Nights / 7 Days",
+    destinations: "Hemkund Sahib",
+    category: "Pilgrimage",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 33,
+    name: "Haridwar Rishikesh Pilgrimage Tour",
+    duration: "2 Nights / 3 Days",
+    destinations: "Haridwar, Rishikesh",
+    category: "Pilgrimage",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 34,
+    name: "Dwadash(12) Jyotirlinga Tour",
+    duration: "7 Nights / 8 Days",
+    destinations: "Uttarakhand",
+    category: "Pilgrimage",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 35,
+    name: "Dhikala Weekend Tour",
+    duration: "2 Nights / 3 Days",
+    destinations: "Dhikala",
+    category: "Wildlife",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 36,
+    name: "Delhi Rajaji Weekend Tour",
+    duration: "2 Nights / 3 Days",
+    destinations: "Haridwar",
+    category: "Wildlife",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 37,
+    name: "Delhi Corbett Weekend Tour",
+    duration: "2 Nights / 3 Days",
+    destinations: "Jim Corbette",
+    category: "Wildlife",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 38,
+    name: "Pangot Corbett Birding Tour",
+    duration: "2 Nights / 3 Days",
+    destinations: "Pangot Corbett",
+    category: "Wildlife",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
+{
+    id: 39,
+    name: "Corbett Mussorie Tour",
+    duration: "4 Nights / 5 Days",
+    destinations: "Corbett, Nussorie",
+    category: "Wildlife",
+    price: "35,999",
+    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    description: "",
+    suggested: [{}]
+},
 ];
 
 const cats = ["All", "Adventure", "Trekking and Hiking", "Group Tours", "Wildlife", "Honeymoon", "Family"];
 
+//selects the Element on the detialed package page
+// var cat = document.querySelector('#cat');
+// cats.map((cate) => {
+//     const div = document.createElement("div");
+//     //div.onclick = filterPackages(cate)
 
+//     div.onclick = () => { filterPackages(cate); };
+
+//     div.className = "category btn ";
+//     div.innerText = cate
+//     cat.appendChild(div)
+// })
 
 
 function renderAllPackages() {
@@ -162,7 +366,7 @@ function filterPackages(filter) {
     if (filter == "All")
         renderAllPackages1(allPackages);
     else {
-        let pkg = packages.filter(p => p.category == filter);
+        let pkg = allPackages.filter(p => p.category == filter);
         renderAllPackages1(pkg);
     }
 }
