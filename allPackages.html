@@ -282,7 +282,16 @@
     <script>
 
         $(document).ready(function () {
-            renderAllPackages()
+            renderAllPackages();
+            //selects the Element on the detialed package page
+            var cat = document.querySelector('#cat');
+            cats.map((cate) => {
+                const div = document.createElement("div");                
+                div.onclick = () => { filterPackages(cate); };
+                div.className = "category btn ";
+                div.innerText = cate
+                cat.appendChild(div)
+            })
         })
     </script>
 </body>

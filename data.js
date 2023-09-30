@@ -108,18 +108,7 @@ const allPackages = [...packages, {
 
 const cats = ["All", "Adventure", "Trekking and Hiking", "Group Tours", "Wildlife", "Honeymoon", "Family"];
 
-//selects the Element on the detialed package page
-// var cat = document.querySelector('#cat');
-// cats.map((cate) => {
-//     const div = document.createElement("div");
-//     //div.onclick = filterPackages(cate)
 
-//     div.onclick = () => { filterPackages(cate); };
-
-//     div.className = "category btn ";
-//     div.innerText = cate
-//     cat.appendChild(div)
-// })
 
 
 function renderAllPackages() {
