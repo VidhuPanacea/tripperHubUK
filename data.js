@@ -584,7 +584,7 @@ function renderAllPackages1(arr) {
         </a>
         <div class="text p-4">
             <span class="days">${pkg.duration}</span>
-            <h3><a href="#">${pkg.name}</a></h3>
+            <h3><a href='packageDetails.html?id=${pkg.id}&name=${pkg.name}'>${pkg.name}</a></h3>
             <p class="location"><span class="fa fa-map-marker"></span> ${pkg.destinations}</p>
             <ul>
                 <li><a href = 'packageDetails.html?id=${pkg.id}&name=${pkg.name}'>Read More >></a></li>
