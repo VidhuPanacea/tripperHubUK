@@ -67,31 +67,8 @@
   <section class="ftco-section ftco-no-pt ftco-no-pb">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 ftco-animate py-md-5 mt-md-5">
-          <h2 class="mb-3">Package Details</h2>
-          <h3 class="mb-3">Itinerary</h3>
-
-          <div>Day 1 <p>
-              Demo Text
-            </p>
-          </div>
-          <div>Day 2 <p>
-              Demo Text
-            </p>
-          </div>
-          <div>Day 3<p>
-              Demo Text
-            </p>
-          </div>
-          <div>Day 4<p>
-              Demo Text
-            </p>
-          </div>
-
-
-
-
-
+        <div id="itinerary" class="col-lg-8 ftco-animate py-md-5 mt-md-5">
+          
         </div>
 
 
@@ -236,22 +213,70 @@
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
   <script src="data.js"></script>
+  <script src="itinerary.js"></script>
 
   <script>
-    var urlParams = new URLSearchParams(window.location.search)
-    let pkg = packages.filter(p => p.id == urlParams.get('id'))[0];
-    document.querySelector("#packageTitle").innerText = pkg.name;
-    document.querySelector("#imageoverlay").style = `background-image: url(${pkg.image});`
+     $( document ).ready(function() {
+        console.log( "document loaded" );
 
-    $(document).ready(function () {
-      var urlParams = new URLSearchParams(window.location.search)
-      detailedPackage(urlParams.get('id'))
-      let pkg = detailedPackage(urlParams.get('id'))
-    })
+        var urlParams = new URLSearchParams(window.location.search)
+        let pkg = packages.filter(p => p.id == urlParams.get('id'))[0];
 
-    document.querySelector("#packageTitle").innerText = urlParams.get('name')
+        document.querySelector("#packageTitle").innerText = pkg.name;
+        document.querySelector("#imageoverlay").style = `background-image: url(${pkg.image});`
 
-    console.log(pkg)
+        var urlParams = new URLSearchParams(window.location.search)
+        //detailedPackage(urlParams.get('id'))
+        //detailedPackage(urlParams.get('id'))
+        document.querySelector("#packageTitle").innerText = urlParams.get('name')
+        
+        console.log(urlParams.get('id'));
+
+        var itinerary = document.querySelector('#itinerary');
+        let iti = itineraries.filter(p => p.packageId == 1)[0];
+
+        console.log(iti);
+
+        const div = document.createElement("div")
+        div.className = " fadeInUp ftco-animate ftco-animated"
+        div.innerHTML = iti.itinerary
+        itinerary.appendChild(div) //finally appends the above code into the DOM
+
+    });
+    
+  
+    
+
+    
+
+// function to filter and render the package on the respective page accordingly
+function detailedPackage(id) {
+  //console.log(pkg)
+    var detailed = document.querySelector('#detailed');
+    let pkg = packages.filter(p => p.id == id)[0];
+    //alert(pkg)
+    const div = document.createElement("div")
+    div.innerHTML = pkg &&  `<div class="col-md-4">
+        <div class="project-wrap">
+            <a name="destinationcard"   class="img"
+                style="background-image: url(https://images.unsplash.com/photo-1590265787538-4dc8fdeb9651?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80;)">
+                <span class="price">₹550/person</span>
+            </a>
+            <div class="text p-4">
+                <span class="days">${pkg.duration}</span>
+                <h3><a href="#">${pkg.name}</a></h3>
+                <p class="location"><span class="fa fa-map-marker"></span> Nainital, Uttarakhand</p>
+                <ul>
+                    <li><span class="flaticon-shower"></span>2</li>
+                    <li><span class="flaticon-king-size"></span>3</li>
+                    <li><span class="flaticon-mountains"></span>Near Mountain</li>
+                </ul>
+            </div>
+        </div>
+    </div>`
+    detailed && detailed.appendChild(div)    
+
+}
   </script>
 </body>
 

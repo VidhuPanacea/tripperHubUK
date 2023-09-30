@@ -104,112 +104,22 @@ const allPackages = [...packages, {
     image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     description: "",
     suggested: [{}]
-}, {
-    id: 9,
-    name: "River Rafting Tour",
-    duration: "1 Nights / 2 Days",
-    destinations: "Bhrampuri to Rishikesh",
-    category: "Adventure",
-    price: "35,999",
-    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    description: "",
-    suggested: [{}]
-}, {
-    id: 9,
-    name: "River Rafting Tour",
-    duration: "1 Nights / 2 Days",
-    destinations: "Bhrampuri to Rishikesh",
-    category: "Adventure",
-    price: "35,999",
-    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    description: "",
-    suggested: [{}]
-}, {
-    id: 9,
-    name: "River Rafting Tour",
-    duration: "1 Nights / 2 Days",
-    destinations: "Bhrampuri to Rishikesh",
-    category: "Adventure",
-    price: "35,999",
-    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    description: "",
-    suggested: [{}]
 }];
-
-
 
 const cats = ["All", "Adventure", "Trekking and Hiking", "Group Tours", "Wildlife", "Honeymoon", "Family"];
 
-// Selecting the DOM Elements
-var app = document.querySelector('#app');
-
-// Mapping the Cards on the main page
-packages.map(function (pkg) {
-    //    creates a DOM element (card) and appends in the div with id - #app 
-    const div = document.createElement("div")
-    div.className = "col-md-4 fadeInUp ftco-animate ftco-animated"
-    div.innerHTML = `<div class="project-wrap">
-        <a name="destinationcard" href = 'packageDetails.html?id=${pkg.id}&name=${pkg.name}'  class="img"
-            style="background-image: url(${pkg.image})">
-            <span class="price">From ₹${pkg.price}</span>
-        </a>
-        <div class="text p-4">
-            <span class="days">${pkg.duration}</span>
-            <h3><a href="#">${pkg.name}</a></h3>
-            <p class="location"><span class="fa fa-map-marker"></span> ${pkg.destinations}</p>
-            <ul>
-                <li><a href = 'packageDetails.html?id=${pkg.id}&name=${pkg.name}'>Read More >></a></li>
-                
-            </ul>
-        </div>
-    </div>`
-    app.appendChild(div) //finally appends the above code into the DOM
-
-
-});
-
-
 //selects the Element on the detialed package page
-var detailed = document.querySelector('#detailed');
+// var cat = document.querySelector('#cat');
+// cats.map((cate) => {
+//     const div = document.createElement("div");
+//     //div.onclick = filterPackages(cate)
 
-// function to filter and render the package on the respective page accordingly
-function detailedPackage(id) {
-    let pkg = packages.filter(p => p.id == id)[0];
-    const div = document.createElement("div")
-    div.innerHTML = `<div class="col-md-4">
-        <div class="project-wrap">
-            <a name="destinationcard"   class="img"
-                style="background-image: url(https://images.unsplash.com/photo-1590265787538-4dc8fdeb9651?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80;)">
-                <span class="price">₹550/person</span>
-            </a>
-            <div class="text p-4">
-                <span class="days">${pkg.duration}</span>
-                <h3><a href="#">${pkg.name}</a></h3>
-                <p class="location"><span class="fa fa-map-marker"></span> Nainital, Uttarakhand</p>
-                <ul>
-                    <li><span class="flaticon-shower"></span>2</li>
-                    <li><span class="flaticon-king-size"></span>3</li>
-                    <li><span class="flaticon-mountains"></span>Near Mountain</li>
-                </ul>
-            </div>
-        </div>
-    </div>`
-    detailed.appendChild(div)
-    return pkg;
+//     div.onclick = () => { filterPackages(cate); };
 
-}
-
-var cat = document.querySelector('#cat');
-cats.map((cate) => {
-    const div = document.createElement("div");
-    //div.onclick = filterPackages(cate)
-
-    div.onclick = () => { filterPackages(cate); };
-
-    div.className = "category btn ";
-    div.innerText = cate
-    cat.appendChild(div)
-})
+//     div.className = "category btn ";
+//     div.innerText = cate
+//     cat.appendChild(div)
+// })
 
 
 function renderAllPackages() {
@@ -251,30 +161,4 @@ function filterPackages(filter) {
         let pkg = packages.filter(p => p.category == filter);
         renderAllPackages1(pkg);
     }
-
-    //alert(pkg.length);
-    // const div = document.createElement("div")
-    // div.innerHTML = `<div class="col-md-4">
-    //     <div class="project-wrap">
-    //         <a name="destinationcard"   class="img"
-    //             style="background-image: url(https://images.unsplash.com/photo-1590265787538-4dc8fdeb9651?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80;)">
-    //             <span class="price">₹550/person</span>
-    //         </a>
-    //         <div class="text p-4">
-    //             <span class="days">${pkg.duration}</span>
-    //             <h3><a href="#">${pkg.name}</a></h3>
-    //             <p class="location"><span class="fa fa-map-marker"></span> Nainital, Uttarakhand</p>
-    //             <ul>
-    //                 <li><span class="flaticon-shower"></span>2</li>
-    //                 <li><span class="flaticon-king-size"></span>3</li>
-    //                 <li><span class="flaticon-mountains"></span>Near Mountain</li>
-    //             </ul>
-    //         </div>
-    //     </div>
-    // </div>`
-    // console.log(pkg)
-    // app.appendChild(div)
-
-
-
 }
