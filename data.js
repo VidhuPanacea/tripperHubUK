@@ -95,7 +95,7 @@ const packages = [{
     suggested: [{}]
 }]
 
-const allPackages = [...packages,
+const allPackages = [
 {
     id: 10,
     name: "Natural Nainital",
@@ -126,7 +126,7 @@ const allPackages = [...packages,
     destinations: "Kausani",
     category: "Family",
     price: "On Request",
-    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    image: "https://images.unsplash.com/photo-1667029837725-420efe40d2b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
     description: "",
     suggested: [{}]
 },
@@ -583,7 +583,7 @@ function renderAllPackages1(arr) {
         </a>
         <div class="text p-4">
             <span class="days">${pkg.duration}</span>
-            <h3><a href="#">${pkg.name}</a></h3>
+            <h3><a href='packageDetails.html?id=${pkg.id}&name=${pkg.name}'>${pkg.name}</a></h3>
             <p class="location"><span class="fa fa-map-marker"></span> ${pkg.destinations}</p>
             <ul>
                 <li><a href = 'packageDetails.html?id=${pkg.id}&name=${pkg.name}'>Read More >></a></li>

@@ -680,13 +680,13 @@ const itineraries = [{
                      <div class="accordion-panel">
                         <h5>Other Benfits (On Arrival) </h5>
                         <ul class="Benfits">
-                           <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+                           <li><img style="width:35px" src="images/meal.svg" alt="meal">
                               Breakfast
                            </li>
-                           <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+                           <li><img style="width:35px" src="images/transport.svg" alt="transport">
                               Transfers
                            </li>
-                           <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+                           <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                               Stay Included
                            </li>
                         </ul>
@@ -786,13 +786,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -909,13 +909,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -972,13 +972,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1053,13 +1053,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1125,13 +1125,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1224,13 +1224,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1287,13 +1287,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1376,13 +1376,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1448,13 +1448,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1538,13 +1538,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1628,13 +1628,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1709,13 +1709,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1790,13 +1790,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -1882,9 +1882,9 @@ const itineraries = [{
     packageId: 23,
     name: 'Nanital With Queen Of Hills',
     itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Chopta Chandrashila Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
-    <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Haridwar – Ukhimath (225 kms/7 hrs)</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/meal.svg" alt="meal">
-    Breakfast</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/transport.svg" alt="transport">
-    Transfers</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/3-star.svg" alt="star hotel">
+    <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Haridwar – Ukhimath (225 kms/7 hrs)</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
+    Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
+    Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
     Stay Included</li></ul><p>In the morning from Delhi railway station take a train for Haridwar at 06:50 hrs. After arriving in Haridwar meet our guide and transfer to Ukhimath via Devprayag (Confluence of Alaknanda &amp; Bhagirathi and Rudraprayag (Confluence of Alaknanda &amp; Mandakini River). Arrival at Ukhimath by evening. Check into hotel, dinner and overnight stay.</p><p><b>Ukhimath</b> (1370 mts / 4500 ft) is on the other side of the Mandakini River Valley from Guptkashi a relatively short steep walk. Ukhimath is the winter seat of Kedarnath, as well as the winter home of the priest who is appointed for the worship. After the Kedarnath temple closes for the winter, a movable image of Kedarnath is brought in procession to Ukhimath, where it resides until the Kedarnath temple reopens in late April or early May.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 02</span><div class="accordion-thumb"><h4>Ukhimath - Deoria Tal (2438 mts / 7998 ft)</h4></div><div class="accordion-panel"><p>In the morning you can see snow capped Himalayan ranges. After breakfast start your trek to Deoria Tal through the dense forest of Rhododendron along with wild flowers and ferns. The trek will take 3- 4 hrs. Upon arrival at Deoria Tal set out the tents for overnight stay.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 03</span><div class="accordion-thumb"><h4>Deoria Tal - Chopta</h4></div><div class="accordion-panel"><p>In the morning trek to Chopta through dense forest and meadows. It’s a 12km trek. Upon arrival at Chopta set out your tents for overnight stay. In the evening explore the magnificent view of the Himalayas.</p></div></div><div class="itinerary-cont-box accordion-item ">
@@ -1895,10 +1895,10 @@ const itineraries = [{
     id: 4,
     packageId: 24,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box" id="section-5"><h3>Nanda Devi Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
-    <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Haridwar - Rishikesh</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img src="imagess/meal.svg" alt="meal">
-    Breakfast</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/transport.svg" alt="transport">
-    Transfers</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/3-star.svg" alt="star hotel">
+    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Nanda Devi Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+    <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Haridwar - Rishikesh</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
+    Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
+    Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
     Stay Included</li></ul><p>In the morning, take an AC train for Haridwar at 06:50 hrs. After arriving in Haridwar, meet our guide who will help you transfer to Rishikesh, check into your hotel. Evening time is free for leisure activities. Overnight stay at the hotel.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 02</span><div class="accordion-thumb"><h4>Rishikesh - Joshimath (253 kms/8-9 hrs)</h4></div><div class="accordion-panel"><p>Today, we will drive to Joshimath and enroute visit Devprayag (the confluence of Bhagirathi and Alaknanda river). Upon your arrival at Joshimath, check into your hotel. Evening time is free to explore the beautiful Joshimath town. Overnight stay at the hotel.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 03</span><div class="accordion-thumb"><h4>Joshimath - Lata Village (2317 mts/7599 ft) (2 kms/1 hrs)</h4></div><div class="accordion-panel"><p>After spending time in Joshimath, we shall leave the national highway and drive on the mountain roads. The 28 km drive from Joshimath to Lata Village takes about an hour. Enroute, witness the thermal hydro project at the enchanting Tapovan village. At Lata, you will be introduced to porters and trekking team. We shall then trek through the fields and abandoned houses. Upon arriving at the village, we are likely to get a warm welcome by the local people. In the evening, visit the Nanda Devi Temple and explore the beauty of village. Overnight stay in the village.</p></div></div><div class="itinerary-cont-box accordion-item ">
@@ -1913,10 +1913,10 @@ const itineraries = [{
     id: 4,
     packageId: 25,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box" id="section-5"><h3>Har Ki Dun Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
-    <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Dehradun – Mussoorie</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/meal.svg" alt="meal">
-    Breakfast</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/transport.svg" alt="transport">
-    Transfers</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/3-star.svg" alt="star hotel">
+    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Har Ki Dun Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+    <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Dehradun – Mussoorie</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
+    Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
+    Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
     Stay Included</li></ul><p>AC train from New Delhi railway station will arrive at Dehradun by noon. On arrival, you will meet your travel guide, who will transfer you to the hotel in Mussoorie for an overnight stay. During the drive, you can enjoy the majestic beauty of Dehradun and Mussoorie.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 02</span><div class="accordion-thumb"><h4>Mussoorie – Sankri (166 kms/ 5-6 hrs)</h4></div><div class="accordion-panel"><p>After breakfast, on the second day, you will drive to Sankri, which is starting point of our trek. On a journey to Sankri, you will pass through attractions like Kempty Falls, Purola and Mori. Before embarking on the trek, ensure that you have enough of bottled drinking water and energy bars to keep you going. After your arrival in the vicinity, you will check in a hotel or tourist rest house.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 03</span><div class="accordion-thumb"><h4>Sankri – Taluka (1900 m/6232 ft) 14 kms/4-5 hrs</h4></div><div class="accordion-panel"><p>The day will start with healthy breakfast and then go for a drive to Taluka, which is 14 km/4-5 hours away from Sankri. During the drive, one can witness the magical beauty of the surroundings and also enjoy the stunning views of the towering mountains and dense forest. You will be transferred to a hotel, once you will arrive at Taluka. Taluka has guest houses and a few shack shops providing daily provisions to the local inhabitants. Overnight in tourist rest house/tent.</p></div></div><div class="itinerary-cont-box accordion-item ">
@@ -1931,10 +1931,10 @@ const itineraries = [{
     id: 4,
     packageId: 26,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box" id="section-5"><h3>Valley of Flowers Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
-    <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Haridwar - Rishikesh</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/meal.svg" alt="meal">
-    Breakfast</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/transport.svg" alt="transport">
-    Transfers</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/3-star.svg" alt="star hotel">
+    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Valley of Flowers Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+    <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Haridwar - Rishikesh</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
+    Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
+    Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
     Stay Included</li></ul><p>In the morning transfer to Delhi railway station and take an AC train for Haridwar at 06:50 hrs. After arriving in Haridwar meet our guide and transfer to Rishikesh, check into your hotel. Evening time is free for leisure activities. Overnight stay at the hotel.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 02</span><div class="accordion-thumb"><h4>Rishikesh - Joshimath (245 kms / 8-9 hrs) Altitude: 1890 mts</h4></div><div class="accordion-panel"><p>Take an early breakfast and get ready for a drive to Joshimath via Devprayag. Enroute, visit Devprayag where the pious Bhagirathi and Alaknanda rivers meet. Reach Joshimath in the evening and check into the hotel. Dinner and overnight stay at the hotel.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 03</span><div class="accordion-thumb"><h4>oshimath - Govindghat (22 kms / 1 hrs) Altitude: 1828 mts - Ghangaria (14 kms / 3-4 hrs) 3048 mts</h4></div><div class="accordion-panel"><p>Today, get ready for a drive to Govindghat after taking an early breakfast. Govindghat is our starting point for the trekking. From here, there is a gradual trail to Ghangaria. Arrive at Ghangaria and check into your hotel. Dinner and overnight stay at the hotel.</p></div></div><div class="itinerary-cont-box accordion-item ">
@@ -1947,10 +1947,10 @@ const itineraries = [{
     id: 4,
     packageId: 27,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
-    <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Kathgodam/Haldwani (280 Kms/7 Hrs) 554 m</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/meal.svg" alt="meal">
-    Breakfast</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/transport.svg" alt="transport">
-    Transfers</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/3-star.svg" alt="star hotel">
+    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+    <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Kathgodam/Haldwani (280 Kms/7 Hrs) 554 m</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
+    Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
+    Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
     Stay Included</li></ul><p>The first day of the Adi Kailash &amp; Om Parvat Yatra Road Journey will start just after you will meet our representative at Anand Vihar Bus Stand in Delhi to catch an AC Volvo bus for Kathgodam/Haldwani. Overnight journey by bus.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 02 </span><div class="accordion-thumb"><h4>Kathgodam/Haldwani - Patal Bhubaneshwar</h4></div><div class="accordion-panel"><p>After reaching the Haldwani/Kathgodam bus stand in the morning you will meet our driver and start a drive towards Patal Bhubaneswar. Through the journey, you will come across various tourist spots like Almora, Chitai Golu Devta Temple and many more. After reaching your destination (Patal Bhubaneswar) of the day, you will check in to the hotel. The rest of the day will be spent taking a rest and then exploring the surroundings in the afternoon. Overnight stay at the hotel in Patal Bhubaneswar.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 03</span><div class="accordion-thumb"><h4>Patal Bhubaneswar - Darchula</h4></div><div class="accordion-panel"><p>On the third day, after having breakfast, you will have a tour of the famous Cave Temple of Patal Bhubaneswar. In the afternoon, after having lunch, we will start for Dharchula, which is around 135 kilometres away. You will reach the hotel in the evening.</p></div></div><div class="itinerary-cont-box accordion-item ">
@@ -1966,10 +1966,10 @@ const itineraries = [{
     id: 4,
     packageId: 28,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
-    <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Kathgodam/Haldwani (280 Kms/7 Hrs) 554 m</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/meal.svg" alt="meal">
-    Breakfast</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/transport.svg" alt="transport">
-    Transfers</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/3-star.svg" alt="star hotel">
+    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+    <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Kathgodam/Haldwani (280 Kms/7 Hrs) 554 m</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
+    Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
+    Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
     Stay Included</li></ul><p>The first day of the Adi Kailash &amp; Om Parvat Yatra Road Journey will start just after you will meet our representative at Anand Vihar Bus Stand in Delhi to catch an AC Volvo bus for Kathgodam/Haldwani. Overnight journey by bus.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 02 </span><div class="accordion-thumb"><h4>Kathgodam/Haldwani - Patal Bhubaneshwar</h4></div><div class="accordion-panel"><p>After reaching the Haldwani/Kathgodam bus stand in the morning you will meet our driver and start a drive towards Patal Bhubaneswar. Through the journey, you will come across various tourist spots like Almora, Chitai Golu Devta Temple and many more. After reaching your destination (Patal Bhubaneswar) of the day, you will check in to the hotel. The rest of the day will be spent taking a rest and then exploring the surroundings in the afternoon. Overnight stay at the hotel in Patal Bhubaneswar.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 03</span><div class="accordion-thumb"><h4>Patal Bhubaneswar - Darchula</h4></div><div class="accordion-panel"><p>On the third day, after having breakfast, you will have a tour of the famous Cave Temple of Patal Bhubaneswar. In the afternoon, after having lunch, we will start for Dharchula, which is around 135 kilometres away. You will reach the hotel in the evening.</p></div></div><div class="itinerary-cont-box accordion-item ">
@@ -1985,10 +1985,10 @@ const itineraries = [{
     id: 4,
     packageId: 29,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box" id="section-5"><h3>Sunderdhunga BC Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
-    <span>Day 1</span><div class="accordion-thumb"><h4> Arrive Delhi</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/meal.svg" alt="meal">
-    Breakfast</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/transport.svg" alt="transport">
-    Transfers</li><li><img src="https://www.tourmyindia.com/treks/wp-content/themes/trekking/imagess/3-star.svg" alt="star hotel">
+    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Sunderdhunga BC Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+    <span>Day 1</span><div class="accordion-thumb"><h4> Arrive Delhi</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
+    Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
+    Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
     Stay Included</li></ul><p>On arrival at Delhi you will be received by our representative. Transfer to hotel for overnight stay.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 2</span><div class="accordion-thumb"><h4>Delhi – Almora</h4></div><div class="accordion-panel"><p>Today you need to wake up early as we will drive to Ranikhet via Kathgodam and Bhimtal. On arrival at Ranikhet by the evening check in to the hotel. Dinner and overnight stay at the hotel.</p></div></div><div class="itinerary-cont-box accordion-item ">
     <span>Day 3</span><div class="accordion-thumb"><h4>Almora - Loharkhet – Dhakuri</h4></div><div class="accordion-panel"><p>Post breakfast drive to Loharkhet. Trekking will start from here and we will trek up to Dhakuri. Today’s trek is 11 km long and it takes you down into the depths of the valley followed by a fair climb to Dhakuri. Dinner and overnight stay in tents/rest house.</p></div></div><div class="itinerary-cont-box accordion-item ">
@@ -2007,15 +2007,15 @@ const itineraries = [{
     id: 4,
     packageId: 30,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itnerary-section">
+    itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
-        <div class="itnerary-red-hoz"><img src="../../images/red-hoz.png" alt="Itinerary"></div>
+   
     </div>
     <div class="itnerary-section-left">
         <ul>
                 <li>
-                <figure><img src="../../images/day-1.png">
+                <figure>
                     <figcaption>
 
                         <h4>Delhi – Haridwar (By Road 205 Kms)</h4>
@@ -2026,7 +2026,7 @@ const itineraries = [{
                 </figure>
             </li>
             <li>
-                <figure><img src="../../images/day-2.png">
+                <figure>
                     <figcaption>
 
                         <h4>Haridwar – Guptkashi (223 Kms Drive)</h4>
@@ -2036,7 +2036,7 @@ const itineraries = [{
                 </figure>
             </li>
             <li>
-                <figure><img src="../../images/day-3.png">
+                <figure>
                     <figcaption>
 
                         <h4>GUPTKASHI – SONPRAYAG - KEDARNATH (27 KMS DRIVE + 19 KMS TREK)</h4>
@@ -2047,7 +2047,7 @@ const itineraries = [{
             </li>
 
             <li>
-                <figure><img src="../../images/day-4.png">
+                <figure>
                     <figcaption>
 
                         <h4>KEDARNATH – SONPRAYAG – RUDRAPRYAG (19 KMS TREK + 60 KMS DRIVE)</h4>
@@ -2056,7 +2056,7 @@ const itineraries = [{
                 </figure>
             </li>
             <li>
-                <figure><img src="../../images/day-5.png">
+                <figure>
                     <figcaption>
 
                         <h4>Rudrapryag – Shri Badrinath (158 Kms)</h4>
@@ -2077,7 +2077,7 @@ const itineraries = [{
                 </figure>
             </li>
             <li>
-                <figure><img src="../../images/day-6.png">
+                <figure>
                     <figcaption>
 
                         <h4>Badrinath – Rudrapryag (158 Kms)</h4>
@@ -2090,7 +2090,7 @@ const itineraries = [{
                 </figure>
             </li>
             <li>
-                <figure><img src="../../images/day-7.png">
+                <figure>
                     <figcaption>
 
                         <h4>Rudrapryag - Rishikesh (133 Kms)</h4>
@@ -2101,7 +2101,7 @@ const itineraries = [{
                 </figure>
             </li>
             <li>
-                <figure><img src="../../images/day-8.png">
+                <figure>
                     <figcaption>
 
                         <h4>Rishikesh – Delhi (224 Kms)</h4>
@@ -2119,14 +2119,14 @@ const itineraries = [{
     id: 4,
     packageId: 31,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itnerary-section">
+    itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
-        <div class="itnerary-red-hoz"><img src="../../images/red-hoz.png" alt="Itinerary"></div>
+   
     </div>
     <div class="itnerary-section-left">
         <ul>
-        <li><figure><img src="../../images/day-1.png">
+        <li><figure>
         <figcaption>
         
             <h4>Delhi - Haridwar (205 kms/6hrs)</h4>
@@ -2134,7 +2134,7 @@ const itineraries = [{
     
         </figcaption>
         </figure></li>
-        <li><figure><img src="../../images/day-2.png">
+        <li><figure>
         <figcaption>
         
             <h4>Haridwar – Barkot (220kms/7hr)</h4>
@@ -2142,7 +2142,7 @@ const itineraries = [{
             <p>Barkot is small town in Uttarkashi District in Uttarakhand state in India. Situated on the banks of the Yamuna River, it is one of the popular destinations for holidaying and experience realm adventure by engaging in trekking and other such adventure activity?</p> 
         </figcaption>
         </figure></li>
-            <li><figure><img src="../../images/day-3.png">
+            <li><figure>
         <figcaption>
         
             <h4>Barkot – Yamunotri – Barkot (42 kms drive + 06 Kms trek per way)</h4>
@@ -2151,7 +2151,7 @@ const itineraries = [{
         </figcaption>
         </figure></li>	
         
-        <li><figure><img src="../../images/day-4.png">
+        <li><figure>
         <figcaption>
         
             <h4>Barkot – Uttarkashi (82 Kms 04 Hrs)</h4>
@@ -2159,7 +2159,7 @@ const itineraries = [{
 <p>Uttarkashi is a town in Uttarakhand, India. It is situated on the banks of Bhagirathi River at a height of 1352 m above sea level. The place is known for housing many temples and ashrams.</p>
         </figcaption>
         </figure></li>	
-    <li><figure><img src="../../images/day-5.png">
+    <li><figure>
         <figcaption>
         
             <h4>Uttarkashi – Gangotri – Uttarkashi (100 kms / 04 hrs per way)</h4>
@@ -2167,7 +2167,7 @@ const itineraries = [{
             <p>Gangotri is a famous Hindu pilgrim centre located on the banks of the river Bhagirathi in Uttarkashi district in Uttarakhand state in India. It is known for holding Gangotri Temple that is believed to be the origin place of holy River Ganges.</p>
         </figcaption>
         </figure></li>	
-        <li><figure><img src="../../images/day-6.png">
+        <li><figure>
         <figcaption>
         
             <h4>Uttarkashi – Rishikesh (167 Kms 05 Hrs)</h4>
@@ -2176,7 +2176,7 @@ const itineraries = [{
 <p>Rishikesh is a world famous Hindu pilgrim centre and a famous holiday destination among adventure lovers. Right from spirituality to white water rafting and camping, the place is visited by thousands of devotees and adventure seekers every year.</p>
         </figcaption>
         </figure></li>	
-        <li><figure><img src="../../images/day-7.png">
+        <li><figure>
         <figcaption>
         
             <h4>Rishikesh – Haridwar – Delhi (224 kms / 7hr)</h4>
@@ -2193,14 +2193,14 @@ const itineraries = [{
     id: 4,
     packageId: 32,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itnerary-section">
+    itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
-        <div class="itnerary-red-hoz"><img src="../../images/red-hoz.png" alt="Itinerary"></div>
+   
     </div>
     <div class="itnerary-section-left">
         <ul>
-        <li><figure><img src="../../images/day-1.png">
+        <li><figure>
         <figcaption>
         
             <h4>Arrival Delhi – Haridwar (205 Kms. 06 Hrs)</h4>
@@ -2209,14 +2209,14 @@ const itineraries = [{
     
         </figcaption>
         </figure></li>
-        <li><figure><img src="../../images/day-2.png">
+        <li><figure>
         <figcaption>
         
             <h4>Haridwar – Pipalkoti (245 Kms 10 Hrs)</h4>
             <p>In the morning after breakfast, we will check out from the hotel in Haridwar and drive to Pipalkoti via Rishikesh Devprayag, Rudrapryag and Karanparyag. Later in the evening on reaching Pipalkoti, we will check in at the already booked hotel and enjoy a soothing overnight stay.</p> 
         </figcaption>
         </figure></li>
-            <li><figure><img src="../../images/day-3.png">
+            <li><figure>
         <figcaption>
         
             <h4>Pipalkoti – Govindghat – Ghangaria (50 Kms. Drive + 13 Kms Trek)</h4>
@@ -2224,14 +2224,14 @@ const itineraries = [{
         </figcaption>
         </figure></li>	
         
-        <li><figure><img src="../../images/day-4.png">
+        <li><figure>
         <figcaption>
         
             <h4>GHANGARIA – HEMKUND SAHIB – GHANGARIA (5 KMS Trek PER WAY)</h4>
 <p>After breakfast in the morning, we will start trekking to Hemkund Sahib. On reaching, we will take a holy dip in Hemkund and afterwards proceed for the darshan of Shri Hemkund Sahib Ji. Afterwards, we will trek back to Ghangaria and take pleasure of an overnight stay in the hotel.</p>
         </figcaption>
         </figure></li>	
-    <li><figure><img src="../../images/day-5.png">
+    <li><figure>
         <figcaption>
         
             <h4>Ghangaria - Govindghat - Rudraprayag (13 Kms. Trek + 132 Kms Drive)</h4>
@@ -2240,7 +2240,7 @@ const itineraries = [{
             <p>Temples: Rudranath and Chamunda Devi, Koteshwar Temple (3 Kms).</p>
         </figcaption>
         </figure></li>	
-        <li><figure><img src="../../images/day-6.png">
+        <li><figure>
         <figcaption>
         
             <h4>Rudraprayag - Rishikesh (135 Kms 7 Hrs)</h4>
@@ -2249,7 +2249,7 @@ const itineraries = [{
 <p>Rishikesh is a famous holy place located just 24 kms away from Haridwar. Enclosed by the beautiful mountains from three side and Ganga river flowing through, it lies right in the lap of lower Himalayas. This significant pilgrimage centre is associated with the Ramayana and houses many ancient and newly constructed temples. It is regarded as an ideal place for practicing yoga and meditation. The place is blessed with many yoga centres and ashrams. Rishikesh is the gateway to start the journey to important religious places in North India including Yamunotri, Gangotri, Kedarnath and Badrinath.</p>
         </figcaption>
         </figure></li>	
-        <li><figure><img src="../../images/day-7.png">
+        <li><figure>
         <figcaption>
         
             <h4>Rishikesh – Delhi (234 Kms 07 Hrs)</h4>
@@ -2266,7 +2266,7 @@ const itineraries = [{
     id: 4,
     packageId: 33,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box">
+    itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2282,13 +2282,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="images/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="images/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="images/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -2332,7 +2332,7 @@ const itineraries = [{
     id: 4,
     packageId: 34,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box">
+    itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2577,7 +2577,7 @@ const itineraries = [{
     id: 4,
     packageId: 35,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box">
+    itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2593,13 +2593,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="images/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="images/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="images/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -2641,7 +2641,7 @@ const itineraries = [{
     id: 4,
     packageId: 36,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box">
+    itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2657,13 +2657,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="images/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="images/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="images/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -2705,7 +2705,7 @@ const itineraries = [{
     id: 4,
     packageId: 37,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box">
+    itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2721,13 +2721,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="images/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="images/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="images/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -2770,21 +2770,21 @@ const itineraries = [{
     id: 4,
     packageId: 38,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itnerary-section">
+    itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
-        <div class="itnerary-red-hoz"><img src="../../images/red-hoz.png" alt="Itinerary"></div>
+   
     </div>
     <div class="itnerary-section-left">
         <ul>
-        <li><figure><img src="../../images/day-1.png">
+        <li><figure>
         <figcaption>
         
             <h4>ARRIVE KATHGODAM - NAINITAL - PANGOT (14 KM)</h4>
             <p>After reaching Kathgodam via the Ranikhet Express train, you can meet our representative at the station. After, you will be driven to Pangot and check-in to the wildlife lodge. Later after freshening up, you can go for birding through the walking trail. On returning you will be served with lunch followed by a walk across the local sylvan thicket. Delicious dinner and an overnight stay in the lodge. </p>
         </figcaption>
         </figure></li>
-        <li><figure><img src="../../images/day-2.png">
+        <li><figure>
         <figcaption>
         
             <h4>PANGOT (NAINITAL) - CORBETT NATIONAL PARK (94 KM), 03 HRS</h4>
@@ -2792,7 +2792,7 @@ const itineraries = [{
 <p>The trek stops at Mongoli after you will have to need return to the campsite. You will be taken to the Corbett Falls to witness the activities of Forktails and Ibisbill. Later, scrumptious dinner will be served with a night stay at the base camp.</p>
         </figcaption>
         </figure></li>
-        <li><figure><img src="../../images/day-3.png">
+        <li><figure>
         <figcaption>
         
             <h4>CORBETT  - DELHI (280 KM) - ONWARD DESTINATION</h4>
@@ -2807,7 +2807,7 @@ const itineraries = [{
     id: 4,
     packageId: 39,
     name: 'Nanital With Queen Of Hills',
-    itinerary:`<div class="itinerary-cont accordion-box">
+    itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2823,13 +2823,13 @@ const itineraries = [{
        <div class="accordion-panel">
           <h5>Other Benfits (On Arrival) </h5>
           <ul class="Benfits">
-             <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+             <li><img style="width:35px" src="images/meal.svg" alt="meal">
                 Breakfast
              </li>
-             <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+             <li><img style="width:35px" src="images/transport.svg" alt="transport">
                 Transfers
              </li>
-             <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+             <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                 Stay Included
              </li>
           </ul>
@@ -2875,6 +2875,7 @@ const itineraries = [{
     </div> 
  </div>`
 },
+
 ];
 
 
