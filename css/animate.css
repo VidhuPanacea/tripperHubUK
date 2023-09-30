@@ -18,6 +18,12 @@ justify-content: center;
  margin-right: 1em;
   
 }
+.category.btn{
+  border: 1px solid orangered;
+}
+.btn :hover{
+  background-color: red;
+}
 
 .bottom-menu-mobile {
   display: none;
