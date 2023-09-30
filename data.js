@@ -340,7 +340,7 @@ const allPackages = [...packages,
     image: "https://images.unsplash.com/photo-1652714145473-eea2563d9e68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
     description: "",
     suggested: [{}]
-,
+},
 {
     id: 21,
     name: "Kaudiyala To Rishikesh River Rafting",
