@@ -1,7 +1,7 @@
 const itineraries = [{
-    id: 1,
-    packageId: 1,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 1,
+   packageId: 1,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
         <span>Day 1</span>
@@ -62,9 +62,9 @@ const itineraries = [{
 },
 
 {
-    id: 2,
-    packageId: 10,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 2,
+   packageId: 10,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -115,9 +115,9 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 3,
-    packageId: 11,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 3,
+   packageId: 11,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -168,9 +168,9 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 12,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 12,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -230,9 +230,9 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 12,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 12,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -292,9 +292,9 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 13,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 13,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -378,9 +378,9 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 14,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 14,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -442,9 +442,9 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 15,
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 15,
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -513,10 +513,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 16,
-    name: 'Nainital Dhikala Tour',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 16,
+   name: 'Nainital Dhikala Tour',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -587,10 +587,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 17,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 17,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -660,11 +660,11 @@ const itineraries = [{
     </div>
  </div>`
 }
-    , {
-    id: 4,
-    packageId: 18,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   , {
+   id: 4,
+   packageId: 18,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
                   <h3>Itinerary</h3>
                   <div class="itinerary-cont-box accordion-item is-active">
                      <span>Day 1</span>
@@ -766,11 +766,11 @@ const itineraries = [{
                   </div>
                </div>`}
 
-    , {
-    id: 4,
-    packageId: 19,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   , {
+   id: 4,
+   packageId: 19,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -890,10 +890,10 @@ const itineraries = [{
     </div>
  </div>`},
 {
-    id: 4,
-    packageId: 20,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 20,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -953,10 +953,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 40,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 40,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1034,10 +1034,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 41,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 41,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1106,10 +1106,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 42,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 42,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1205,10 +1205,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 43,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 43,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1268,10 +1268,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 44,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 44,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1357,10 +1357,10 @@ const itineraries = [{
     </div>        
  </div>`
 }, {
-    id: 4,
-    packageId: 45,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 45,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1429,10 +1429,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 46,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 46,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1519,10 +1519,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 47,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 47,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1609,10 +1609,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 48,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 48,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1690,10 +1690,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 49,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 49,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1771,10 +1771,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 50,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 50,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -1838,10 +1838,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 21,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `Tour –Itinerary:
+   id: 4,
+   packageId: 21,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `Tour –Itinerary:
     Day 01:
     Welcome to the sacred city of Rishikesh around 10 am in the morning. Check into the camps and get ready for a trek to the pristine waterfall. After spending a memorable time near the waterfall, transfer to the camp. In the evening, spend some relaxing time by exploring the area or indulging in the exciting camp activities and games like cricket, badminton and volleyball. In the evening, enjoy a hot cup of tea with delicious snacks and bonfire. Dinner and relaxing overnight stay at the camp.
     
@@ -1854,10 +1854,10 @@ const itineraries = [{
     Tour and Services End.`
 },
 {
-    id: 4,
-    packageId: 22,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `afting Tour Program:
+   id: 4,
+   packageId: 22,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `afting Tour Program:
 
     Option – 1 :
     Rafting Marine Drive to Rishikesh (1 Night and 2 DaysStay at Beach Camp)
@@ -1878,10 +1878,10 @@ const itineraries = [{
     Day 03 : Morning be ready for adventure activities like rock climbing, rappelling at camp itself. Later have breakfast and leave the camp for your onward journey.`
 },
 {
-    id: 4,
-    packageId: 23,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Chopta Chandrashila Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+   id: 4,
+   packageId: 23,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Chopta Chandrashila Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
     <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Haridwar – Ukhimath (225 kms/7 hrs)</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
     Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
     Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
@@ -1892,10 +1892,10 @@ const itineraries = [{
     <span>Day 05</span><div class="accordion-thumb"><h4>Chopta – Haridwar - Delhi</h4></div><div class="accordion-panel"><p>After an early breakfast, drive to Haridwar and from here catch train for Delhi at 18:05 hrs. Arrival Delhi by 22:45 hrs.</p></div></div></div>`
 },
 {
-    id: 4,
-    packageId: 24,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Nanda Devi Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+   id: 4,
+   packageId: 24,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Nanda Devi Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
     <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Haridwar - Rishikesh</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
     Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
     Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
@@ -1910,10 +1910,10 @@ const itineraries = [{
     <span>Day 09</span><div class="accordion-thumb"><h4>Karanprayag - Haridwar (195 km/6-7 hrs) - Delhi</h4></div><div class="accordion-panel"><p>We will drive 195 kilometers in around 7 hours. Enroute visit the confluences at Rudraprayag and Devprayag. Arrive at Haridwar by evening and from here catch an AC Train for Delhi at 18:05 hrs. Arrival at Delhi by 22:45 hrs….</p></div></div></div>`
 },
 {
-    id: 4,
-    packageId: 25,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Har Ki Dun Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+   id: 4,
+   packageId: 25,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Har Ki Dun Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
     <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Dehradun – Mussoorie</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
     Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
     Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
@@ -1928,10 +1928,10 @@ const itineraries = [{
     <span>Day 09</span><div class="accordion-thumb"><h4>Taluka (13 kms/3-4 hrs) – Sankri - Dehradun (215 Kms, 6 hrs) - Delhi</h4></div><div class="accordion-panel"><p>The trek for the last day is relaxing and fun walk through the forest and on manmade roads. This day is highlighted by a back drive to Dehradun. Following your arrival in Dehradun; at about 05 pm, the adventure of the Har Ki Dun trekking comes to an end.</p></div></div></div>`
 },
 {
-    id: 4,
-    packageId: 26,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Valley of Flowers Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+   id: 4,
+   packageId: 26,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Valley of Flowers Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
     <span>Day 01</span><div class="accordion-thumb"><h4>Delhi – Haridwar - Rishikesh</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
     Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
     Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
@@ -1944,10 +1944,10 @@ const itineraries = [{
     <span>Day 07</span><div class="accordion-thumb"><h4>Rudraprayag - Haridwar - Delhi</h4></div><div class="accordion-panel"><p>In the morning after breakfast drive to Haridwar. On the way visit Devprayag (Confluence of river Bhagirathi and Alaknanda; from here the holy Ganges start). On arrival at Haridwar transfer to railway station and board train for Delhi at 18:15 hrs. Arrival at Delhi by 22:45 hrs.</p></div></div></div>`
 },
 {
-    id: 4,
-    packageId: 27,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+   id: 4,
+   packageId: 27,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
     <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Kathgodam/Haldwani (280 Kms/7 Hrs) 554 m</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
     Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
     Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
@@ -1963,10 +1963,10 @@ const itineraries = [{
     <span>Day 10</span><div class="accordion-thumb"><h4>Arrive in Delhi</h4></div><div class="accordion-panel"><p>The journey will end in Delhi when you arrive there in the morning.</p></div></div></div>`
 },
 {
-    id: 4,
-    packageId: 28,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+   id: 4,
+   packageId: 28,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Adi Kailash Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
     <span>Day 01</span><div class="accordion-thumb"><h4> Delhi – Kathgodam/Haldwani (280 Kms/7 Hrs) 554 m</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
     Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
     Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
@@ -1982,10 +1982,10 @@ const itineraries = [{
     <span>Day 10</span><div class="accordion-thumb"><h4>Arrive in Delhi</h4></div><div class="accordion-panel"><p>The journey will end in Delhi when you arrive there in the morning.</p></div></div></div>`
 },
 {
-    id: 4,
-    packageId: 29,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Sunderdhunga BC Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
+   id: 4,
+   packageId: 29,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box" id="section-5"><h3>Sunderdhunga BC Trek (Detailed Itinerary)</h3><div class="itinerary-cont-box accordion-item is-active">
     <span>Day 1</span><div class="accordion-thumb"><h4> Arrive Delhi</h4></div><div class="accordion-panel"><h5>Other Benfits (On Arrival)</h5><ul class="Benfits"><li><img style="width:35px" src="images/meal.svg" alt="meal">
     Breakfast</li><li><img style="width:35px" src="images/transport.svg" alt="transport">
     Transfers</li><li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
@@ -2004,10 +2004,10 @@ const itineraries = [{
     <span>Day 13</span><div class="accordion-thumb"><h4>Bageshwar - Delhi</h4></div><div class="accordion-panel"><p>After breakfast we will drive to Delhi via Kathgodam. Arrival at Delhi by the evening.</p></div></div></div>`
 },
 {
-    id: 4,
-    packageId: 30,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itnerary-section">
+   id: 4,
+   packageId: 30,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
    
@@ -2116,10 +2116,10 @@ const itineraries = [{
 </div>`
 },
 {
-    id: 4,
-    packageId: 31,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itnerary-section">
+   id: 4,
+   packageId: 31,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
    
@@ -2190,10 +2190,10 @@ const itineraries = [{
 </div>`
 },
 {
-    id: 4,
-    packageId: 32,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itnerary-section">
+   id: 4,
+   packageId: 32,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
    
@@ -2263,10 +2263,10 @@ const itineraries = [{
 </div>`
 },
 {
-    id: 4,
-    packageId: 33,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 33,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2329,10 +2329,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 34,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 34,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2574,10 +2574,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 35,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 35,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2638,10 +2638,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 36,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 36,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2702,10 +2702,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 37,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 37,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2767,10 +2767,10 @@ const itineraries = [{
  </div>`
 },
 {
-    id: 4,
-    packageId: 38,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itnerary-section">
+   id: 4,
+   packageId: 38,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itnerary-section">
     <div class="itnerary-section-head">
         <h3>Itinerary</h3>
    
@@ -2804,10 +2804,10 @@ const itineraries = [{
 </div>`
 },
 {
-    id: 4,
-    packageId: 39,
-    name: 'Nanital With Queen Of Hills',
-    itinerary: `<div class="itinerary-cont accordion-box">
+   id: 4,
+   packageId: 39,
+   name: 'Nanital With Queen Of Hills',
+   itinerary: `<div class="itinerary-cont accordion-box">
     <h3>Itinerary</h3>
     <div class="itinerary-cont-box accordion-item is-active">
        <span>Day 1</span>
@@ -2875,7 +2875,559 @@ const itineraries = [{
     </div> 
  </div>`
 },
-
+{
+   id: 4,
+   packageId: 8,
+   name: 'Auli Skiing Tour',
+   itinerary: `<div class="itinerary-cont accordion-box">
+   <h3>Itinerary</h3>
+   <div class="itinerary-cont-box accordion-item is-active">
+      <span>Day 1</span>
+            <div class="accordion-thumb">
+         <h4>Arrive Delhi</h4>
+         <ul class="tags">
+            <li>Arrival Transfer</li>
+            <li>Sightseeing tour</li>                           
+            <li>Lunch</li>
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <h5>Other Benfits (On Arrival) </h5>
+         <ul class="Benfits">
+            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+               Breakfast
+            </li>
+            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+               Transfers
+            </li>
+            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+               Stay Included
+            </li>
+         </ul>
+           <p>On arrival at Delhi airport, our representative will meet you and transfer you to your pre-booked hotel. The rest of the day is free for leisure. An overnight stay at the hotel.</p>
+      </div>                    
+   </div>
+    <div class="itinerary-cont-box accordion-item">
+      <span>Day 2</span>
+            <div class="accordion-thumb">
+         <h4>Delhi - Haridwar - Rudrapryag</h4>
+      </div>
+      <div class="accordion-panel">
+         <p>In the morning, we will transfer you to the New Delhi Railway Station to catch train for Haridwar. On arrival, meet our representative and drive to Rudrapryag. On arrival, check in at the hotel for an overnight stay.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 3</span>
+            <div class="accordion-thumb">
+         <h4>Rudrapryag - Auli</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>In the morning after breakfast, we will drive to Auli. On arrival, our representative will transfer you to the ski resort. Rest of the day is free for leisure. An overnight stay at the hotel.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 4</span>
+            <div class="accordion-thumb">
+         <h4>Auli</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Full day is for skiing activities.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 5</span>
+            <div class="accordion-thumb">
+         <h4>Auli</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Full day is for skiing activities.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 6</span>
+            <div class="accordion-thumb">
+         <h4>Auli</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Full day is for skiing activities.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 7</span>
+            <div class="accordion-thumb">
+         <h4>Auli</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Full day is for skiing activities.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 8</span>
+            <div class="accordion-thumb">
+         <h4>Auli</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Full day is for skiing activities.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 9</span>
+            <div class="accordion-thumb">
+         <h4>Auli - Rishikesh</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>In the morning after breakfast, we will drive to Rishikesh. On arrival, check in at the hotel. The evening is free for leisure. An overnight stay at the hotel.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 10</span>
+            <div class="accordion-thumb">
+         <h4>Rishikesh - Delhi</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>In the morning, we will proceed for sightseeing tour to Rishikesh. Later, we will drive to Haridwar to catch train for Delhi. On arrival at the new Delhi station, transfer you to the hotel for an overnight stay.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 11</span>
+            <div class="accordion-thumb">
+         <h4>Delhi - Departure</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>In the morning, we will transfer you to the airport to catch the flight for Onward destination. </p>
+         <p><strong>Tour and Services ends</strong></p>
+      </div>
+   </div>
+</div>`
+},
+{
+   id: 4,
+   packageId: 2,
+   name: 'Nainital Ranikhet Tour',
+   itinerary: `<div class="itinerary-cont accordion-box">
+   <h3>Itinerary</h3>
+   <div class="itinerary-cont-box accordion-item is-active">
+      <span>Day 1</span>
+            <div class="accordion-thumb">
+         <h4>Delhi - Nainital (7 hrs drive)</h4>
+         <ul class="tags">
+            <li>Arrival Transfer</li>
+            <li>Sightseeing tour</li>                           
+            <li>Lunch</li>
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <h5>Other Benfits (On Arrival) </h5>
+         <ul class="Benfits">
+            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+               Breakfast
+            </li>
+            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+               Transfers
+            </li>
+            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+               Stay Included
+            </li>
+         </ul>
+           <p>Drive to a beautiful paradise on earth- Nainital, positioned among the Kumaon hills in the Indian state of Uttarakhand. On arrival, check in to a hotel. In the evening you can explore beautiful sights or pay a visit to Mall Road. Overnight stay at the hotel.</p>
+      </div>                    
+   </div>
+    <div class="itinerary-cont-box accordion-item">
+      <span>Day 2</span>
+            <div class="accordion-thumb">
+         <h4>Nainital</h4>
+      </div>
+      <div class="accordion-panel">
+         <p>After having a breakfast set off to the charming destinations of Nainital. The important places you will cover today are Laxman Lake, Hanuman Lake, Bhimtal, Sita Lake and Nal Damyanti Lake. Overnight stay at the hotel.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 3</span>
+            <div class="accordion-thumb">
+         <h4>Nainital - Ranikhet</h4>
+      </div>
+      <div class="accordion-panel">                        
+        <p>Check out from hotel after having a delectable breakfast. Travel to Ranikhet, on the way visit the Kanchi Dham. Check in at a hotel. Relax and enjoy a scrumptious lunch, and then we will take you to Haidakhan Babaji Ashram at Chilyanaula, wherein you are free to enjoy for the rest of the day. Overnight stay at a hotel in Ranikhet.</p>
+      </div>
+   </div>  
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 4</span>
+            <div class="accordion-thumb">
+         <h4>Ranikhet</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>In the morning post a healthy breakfast, we will take you for a sightseeing tour of Ranikhet. We will take you to the Ranikhet Golf Course, which is a beautiful 9-hole golf course field cuddled by the vistas of various mountain slopes. Further, we will take you to the apple orchards. Later return to the hotel for an overnight stay.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 5</span>
+            <div class="accordion-thumb">
+         <h4>Ranikhet - Delhi</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Early morning after breakfast, we will drive back to Delhi. On reaching we will transfer you to airport or railway station for your journey back home.</p>
+         <p><strong>Tour and Services ends</strong></p>
+      </div>
+   </div>
+</div>`
+},
+{
+   id: 4,
+   packageId: 3,
+   name: 'Mussorie Rishikesh Tour',
+   itinerary:`<div class="itinerary-cont accordion-box">
+   <h3>Itinerary</h3>
+   <div class="itinerary-cont-box accordion-item is-active">
+      <span>Day 1</span>
+            <div class="accordion-thumb">
+         <h4>Delhi - Mussoorie&lt;</h4>
+         <ul class="tags">
+            <li>Arrival Transfer</li>
+            <li>Sightseeing tour</li>                           
+            <li>Lunch</li>
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <h5>Other Benfits (On Arrival) </h5>
+         <ul class="Benfits">
+            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+               Breakfast
+            </li>
+            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+               Transfers
+            </li>
+            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+               Stay Included
+            </li>
+         </ul>
+           <p>Morning drive to Mussoorie, On arrival check in at a pre-booked hotel. Rest of the day free at leisure overnight stay at hotel.</p>
+      </div>                    
+   </div>
+    <div class="itinerary-cont-box accordion-item">
+      <span>Day 2</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie</h4>
+      </div>
+      <div class="accordion-panel">
+         <p>Morning after breakfast we will take you for a full day sightseeing tour of Mussoorie, tour includes Lal Tibba – The highest point in Mussoorie, located in Landour area, the oldest inhabited place in Mussoorie. Gun Hill – The second highest point in Mussoorie, offers a panoramic view of the Himalayas. Municipal Gardens – Also known as Botanical Gardens of Mussoorie has an artificially created lake, which is a perfect picnic spot with boating facilities. Kempty Falls – 15 kms from Mussoorie on the Yamunotri Road is the most fascinating and the biggest waterfall. Camel’s Back Road – The place offers a picturesque view of the sunset and a life like resemblance of a sitting camel. Municipal Garden – An artificially created lake is a perfect picnic spot with boating facilities. Overnight stay at Mussoorie.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 3</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie - Rishikesh</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Morning after breakfast drive to Rishikesh, on arrival check in at pre booked hotel. Later we will take you for the sightseeing tour of Rishikesh including Muni ki Reti , Swargashram and other important temples, in evening enjoy famous Aarati of Holy Ganges at parmarth Niketan. Overnight stay at hotel.</p>
+      </div>
+   </div>  
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 4</span>
+            <div class="accordion-thumb">
+         <h4>Rishikesh - Delhi</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Morning after breakfast drive to Delhi en’route visit Bharat Mata Mandir, Vashino Devi Temple, Chandi and Mansa Devi temple. Continue drive to Delhi , arrive Delhi by evening.</p>
+         <p><strong>Tour and Services ends</strong></p>
+      </div>
+   </div>
+</div>`
+},
+{
+   id: 4,
+   packageId: 4,
+   name: 'Mussorie Honeymoon Tour',
+   itinerary:`<div class="itinerary-cont accordion-box">
+   <h3>Itinerary</h3>
+   <div class="itinerary-cont-box accordion-item is-active">
+      <span>Day 1</span>
+            <div class="accordion-thumb">
+         <h4>Delhi to Mussoorie ( 280 kilometers 07 to 08 Hours)</h4>
+         <ul class="tags">
+            <li>Arrival Transfer</li>
+            <li>Sightseeing tour</li>                           
+            <li>Lunch</li>
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <h5>Other Benfits (On Arrival) </h5>
+         <ul class="Benfits">
+            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+               Breakfast
+            </li>
+            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+               Transfers
+            </li>
+            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+               Stay Included
+            </li>
+         </ul>
+         <p>Upon arrival at Indira Gandhi International Airport, meet our representatives and then embark on an eight-hour drive to reach Mussoorie. On arrival in Mussoorie, enjoy a relaxing stay in the room. The evening will be free for leisure. Dinner and overnight stay at the hotel.</p>
+      </div>                    
+   </div>
+    <div class="itinerary-cont-box accordion-item">
+      <span>Day 2</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie ( Local Sightseeing)</h4>
+      </div>
+      <div class="accordion-panel">
+         <p>Post tummy filling breakfast at the hotel, go for the local sightseeing. Start your day with a visit to Lal Tibba, the highest point in Mussoorie that offers the breathtaking view of the Himalayan mountains. After a relaxing break at the Lal Tibba, take a scenic boat ride at Mussoorie Lake. Followed by a visit to Bhatta falls. In the evening, you will be visiting Mall Road and then ride on the cable car to the top of Gun Hill. Overnight stay at the hotel.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 3</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie - Dhanaulti - Mussoorie</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Wake up in the morning with a big smile and beautiful view of Himalaya. Today, after breakfast, board the chauffeur-driven car that will take you to Dhanaulti, hardly 24 km from Dhanaulti. When in Dhanaulti, visit the Surkanda Devi Temple, which is built on the same place where the head of Sati fell when Lord Shiv was carrying her corpse. After exploring Dhanaulti, go back to the hotel in Mussoorie for dinner and overnight stay.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 4</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie - Kempty fall </h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>After scrumptious breakfast at the hotel, visit Kempty falls, the iconic tourist attraction of Mussoorie. The evening will be free for leisure. Overnight stay at the hotel.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 5</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie to Delhi</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Today, after breakfast, check out from the hotel and drive back to Delhi. When in Delhi, you will be transferred to the airport to board a flight to onward destination.</p>
+         <p><strong>Tour and Services ends</strong></p>
+      </div>
+   </div>           
+</div>`
+},
+{
+   id: 4,
+   packageId: 5,
+   name: 'Nainital Corbett Tour',
+   itinerary:`<div class="itinerary-cont accordion-box">
+   <h3>Itinerary</h3>
+   <div class="itinerary-cont-box accordion-item is-active">
+      <span>Day 1</span>
+            <div class="accordion-thumb">
+         <h4>Delhi - Corbett (270 km; 6 hrs)</h4>
+         <ul class="tags">
+            <li>Arrival Transfer</li>
+            <li>Sightseeing tour</li>                           
+            <li>Lunch</li>
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <h5>Other Benfits (On Arrival) </h5>
+         <ul class="Benfits">
+            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+               Breakfast
+            </li>
+            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+               Transfers
+            </li>
+            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+               Stay Included
+            </li>
+         </ul>
+           <p>Arrive at Delhi airport or railway station, and there our representative will meet you. We will then drive towards Jim Corbett National Park. Upon arrival check into the hotel and unwind yourself. Later, we will take you to Garjyia Devi Temple. Return to the hotel for overnight stay.</p>
+      </div>                    
+   </div>
+    <div class="itinerary-cont-box accordion-item">
+      <span>Day 2</span>
+            <div class="accordion-thumb">
+         <h4>Corbett</h4>
+      </div>
+      <div class="accordion-panel">
+         <p>Early morning after breakfast we will take you for jungle safari. Many of the wild creatures are more active during dawn. Later, return to the hotel for lunch and thereafter enjoy jeep safari in various nooks and corners of the park. Come back to the hotel by evening for dinner and overnight stay.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 3</span>
+            <div class="accordion-thumb">
+         <h4>Corbett - Nainital (80 km; 3hrs)</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Drive to Nainital in early morning. Upon arrival, check into a hotel and unwind yourself. Thereafter, we will take you to various tourist charms of the place like the Hanuman Giri, Golf Course and Naina Devi Temple. Later, return to the hotel for a comfortable overnight stay.</p>
+      </div>
+   </div> 
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 4</span>
+            <div class="accordion-thumb">
+         <h4>Nainital</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>The entire day is dedicated for visiting the famous lakes of Nainital. We will take you to Naukuchia Tal, Malli Tal, Bhim Tal, Sattal and Khurpa Tal. In the second half of the day you can enjoy boat ride on the Naini Lake. Reach the hotel by evening for having a delectable dinner and comfy overnight stay.</p>
+      </div>
+   </div>  
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 5</span>
+            <div class="accordion-thumb">
+         <h4>Nainital – Mussoorie (295 km; 8hrs)</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Post breakfast, we will drive to Mussoorie. On reaching, transfer to a hotel and spend rest of the day either at leisure or you can visit the Mall Road.</p>
+      </div>
+   </div>    
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 6</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>Today we will make you wander amid various famous tourist charms of Mussoorie. Post breakfast, we will take you to different destinations such as Kempty Fall, Mussoorie Fall, Van Chetna Kendra, Camel Back and Surkanda Devi Temple. We will get back to the hotel by evening for an overnight stay.</p>
+      </div>
+   </div>   
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 7</span>
+            <div class="accordion-thumb">
+         <h4>Mussoorie - Delhi, Departure (315 km; 8hrs)</h4>
+      </div>
+      <div class="accordion-panel">                        
+         <p>After breakfast drive back to Delhi and on arrival you will be transferred to airport or railway station for your journey back to home.</p>
+         <p><strong>Tour and Services ends</strong></p>
+      </div>
+   </div>    
+</div>`
+},
+{
+   id: 4,
+   packageId: 6,
+   name: 'Haridwar and Rishikesh Tour',
+   itinerary:`<div class="itinerary-cont accordion-box">
+   <h3>Itinerary</h3>
+   <div class="itinerary-cont-box accordion-item is-active">
+      <span>Day 1</span>
+            <div class="accordion-thumb">
+         <h4>Delhi – Haridwar (5 Hrs Drive)</h4>
+         <ul class="tags">
+            <li>Arrival Transfer</li>
+            <li>Hotel Stay</li>
+            <li>Lunch</li>
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <h5>Other Benfits (On Arrival) </h5>
+         <ul class="Benfits">
+            <li><img src="images/meal.svg" alt="meal">
+               Breakfast
+            </li>
+            <li><img src="images/transport.svg" alt="transport">
+               Transfers
+            </li>
+            <li><img src="images/3-star.svg" alt="star hotel">
+               Stay Included
+            </li>
+         </ul>
+         <p>Morning Drive to Haridwar. On arrival at Haridwar check into the hotel. Later we will take you for a sightseeing tour of Haridwar. Visit ashram and temples - which includes Mansa Devi temple, Chandi Devi temple, Maya Devi temple, Daksha Mahadev temple, Sapta Rishi temple  and Ramanand ashram. Later back to hotel for hot tea and rest, In the evening after sunset will take you to Har ki pauri to attend the famous Ganga Aarti. Dinner and overnight stay at the hotel.</p>
+      </div>
+   </div>
+    <div class="itinerary-cont-box accordion-item">
+      <span>Day 2</span>
+            <div class="accordion-thumb">
+         <h4>Haridwar – Rishikesh – Haridwar (1 Hrs One Way)</h4>
+         <ul class="tags">
+            <li>Breakfast</li>
+            <li>Sightseeing tour</li>
+            <li>Hotel Stay</li>                           
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <p>Morning after breakfast drive to Rishikesh on arrival proceed to sightseeing tour of Rishikesh visit Lakshman Jhula, Ram Jhula, Gita Bhawan, evening attend Ganga Aarti at Parmarth Niketan. Later drive back to Haridwar, dinner and overnight stay at the hotel.</p>
+         <p><b>Rishikesh</b></p>
+         <p> 24 Kms. from Haridwar. Located in the laps of lower Himalayas, and is surrounded by scenic beauty of the hills on three sides with Holy Ganga flowing through it. The whole place is considered to be sacred as it is believed that meditation at this place leads to attainment of salvation. There are many temples-some ancient, some new along the river Ganges. Rishikesh is important not only as pilgrimage centre closely associated with the Ramayana, but also as home for many important centers of Hindu religious thought and spirituality, and as a very great Yoga Centre. There are a great many ashrams and Yoga institutes here. Rishikesh is also the gateway and the start-off point for journeys to important religious places like Badrinath, Kedarnath, Gangotri and Yamunotri</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 3</span>
+            <div class="accordion-thumb">
+         <h4>Haridwar – Delhi Drop (5 Hrs)</h4>
+         <ul class="tags">
+            <li>Breakfast</li>
+            <li>Departure Transfer</li> 
+         </ul>
+      </div>
+      <div class="accordion-panel">
+          <p>Morning after breakfast checkout from hotel and drive back to Delhi.</p>  
+          <p><strong>Tour &amp; Services Ends.</strong></p>                       
+      </div>
+   </div>                 
+</div>`
+},
+{
+   id: 4,
+   packageId: 7,
+   name: 'Delhi Lansdowne Weekend Tour',
+   itinerary:`<div class="itinerary-cont accordion-box">
+   <h3>Itinerary</h3>
+   <div class="itinerary-cont-box accordion-item is-active">
+      <span>Day 1</span>
+            <div class="accordion-thumb">
+         <h4>Delhi - Lansdowne (290 Kms / 06:30 Hrs)</h4>
+         <ul class="tags">
+            <li>Arrival Transfer</li>
+            <li>Hotel Stay</li>
+            <li>Lunch</li>
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <h5>Other Benfits (On Arrival) </h5>
+         <ul class="Benfits">
+            <li><img src="images/meal.svg" alt="meal">
+               Breakfast
+            </li>
+            <li><img src="images/transport.svg" alt="transport">
+               Transfers
+            </li>
+            <li><img src="images/3-star.svg" alt="star hotel">
+               Stay Included
+            </li>
+         </ul>
+         <p>Morning drive to Lansdowne, Lansdowne is named after the then Viceroy of India, Lord Lansdowne who came here in 1884, Lansdowne at 1700 metres above sea level is a green hill with varied fauna and flora that makes it a colorful and picturesque hill station. Since 1884 it has been home to the Garhwal Rifles that can be rightly credited with preserving its pristine surroundings and keeping it neat as a pin. On arrival check in at hill resort. Rest of the day free at leisure. Dinner and overnight stay at the hotel.</p>
+      </div>
+   </div>
+    <div class="itinerary-cont-box accordion-item">
+      <span>Day 2</span>
+            <div class="accordion-thumb">
+         <h4>Lansdowne</h4>
+         <ul class="tags">
+            <li>Breakfast</li>
+            <li>Sightseeing tour</li>
+            <li>Hotel Stay</li>                           
+            <li>Dinner</li>
+         </ul>
+      </div>
+      <div class="accordion-panel">
+         <p>Enjoy leisurely breakfast now it's time to see famous tourist attractions of Lansdowne like,The Garhwal Rifles Regimental War Memorial, Regimental Museum, some famous Churches and Hawaghar, after lunch we will take you to Tip in Top (Tiffin Top), an easy trek. Later enjoy Boating in Bhulla Tal (Lake). Dinner and overnight stay at the hotel.</p>
+      </div>
+   </div>
+   <div class="itinerary-cont-box accordion-item">
+      <span>Day 3</span>
+            <div class="accordion-thumb">
+         <h4>Lansdowne – Delhi (290 Kms \ 06:30 Hrs)</h4>
+         <ul class="tags">
+            <li>Breakfast</li>
+            <li>Departure Transfer</li> 
+         </ul>
+      </div>
+      <div class="accordion-panel">
+          <p>Morning after breakfast drive back to Delhi.</p>  
+          <p><strong>Tour &amp; Services Ends.</strong></p>                       
+      </div>
+   </div>                 
+</div>`
+},
 ];
 
 

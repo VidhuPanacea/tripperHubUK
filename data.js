@@ -1,13 +1,12 @@
-const packages = [{
-    id: 1,
-    name: "Delhi Nainital Tour",
-    duration: "3 Nights / 4 Days",
-    destinations: "Nainital, Uttarakhand",
+const homePackages = [{
+    id: 10,
+    name: "Natural Nainital",
+    duration: "2 Nights - 3 Days",
+    destinations: "Nainital",
     category: "Family",
     price: "On Request",
-    image: "https://images.unsplash.com/photo-1590265787538-4dc8fdeb9651?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80;",
-    description: "Very good package",
-    itinerary: [{ day1: "Start", day2: "end" }],
+    image: "https://images.unsplash.com/photo-1601622256416-d7f757f99eb2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    description: "",
     suggested: [{}]
 }, {
     id: 2,
@@ -42,7 +41,7 @@ const packages = [{
     suggested: [{}]
 }, {
     id: 5,
-    name: "Nainital Corbett Tour",
+    name: "Nainital Corbett Mussorie Tour",
     duration: "4 Nights / 5 Days",
     destinations: "Nainital, Corbett",
     category: "Wildlife",
@@ -68,7 +67,7 @@ const packages = [{
     category: "Trekking & Hiking",
     price: "On Request",
     price: "On Request",
-    image: "https://images.unsplash.com/photo-1511754863001-18d44abd0a93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    image: "https://images.unsplash.com/photo-1596712394419-8f30d4d12f70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1916&q=80",
     description: "",
     suggested: [{}]
 },
@@ -84,18 +83,18 @@ const packages = [{
     suggested: [{}]
 },
 {
-    id: 9,
-    name: "River Rafting Tour",
-    duration: "1 Nights / 2 Days",
-    destinations: "Bhrampuri to Rishikesh",
-    category: "Adventure",
+    id: 37,
+    name: "Delhi Corbett Weekend Tour",
+    duration: "2 Nights / 3 Days",
+    destinations: "Jim Corbette",
+    category: "Wildlife",
     price: "On Request",
-    image: "https://images.unsplash.com/photo-1641584495061-89b9025f563b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    image: "https://images.unsplash.com/photo-1588970698009-f8ea62f1857e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
     description: "",
     suggested: [{}]
 }]
 
-const allPackages = [
+const allPackages = [...homePackages,
 {
     id: 10,
     name: "Natural Nainital",

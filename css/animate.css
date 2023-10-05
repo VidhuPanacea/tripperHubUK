@@ -6,22 +6,37 @@ Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 Copyright (c) 2015 Daniel Eden
 */
-.categories-container{
-margin-bottom: 4em;
-display: flex;
-align-items: center;
-justify-content: center;
+
+.customblur {
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.4);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  margin-top: -2.5em;
 }
 
-.category{
- margin: 0 ;
- margin-right: 1em;
-  
+.categories-container {
+  margin-bottom: 4em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.category.btn{
+
+.category {
+  margin: 0;
+  margin-right: 1em;
+
+}
+
+.category.btn {
   border: 1px solid orangered;
 }
-.btn :hover{
+
+.btn :hover {
   background-color: red;
 }
 
