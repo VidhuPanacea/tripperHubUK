@@ -6,6 +6,41 @@ Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 Copyright (c) 2015 Daniel Eden
 */
+*:focus {
+  outline: none
+}
+#cat{
+  display: flex;
+  overflow-x: scroll;
+}
+#cat div{
+  width: max-content;
+}
+.customform {
+  text-align: center;
+}
+
+.customform input {
+  width: 100%;
+  padding: .75em;
+  border: 1.5px solid rgb(207, 199, 196);
+  /* border: none; */
+  border-radius: 5px;
+}
+
+.customform input::placeholder {
+  color: rgb(204, 204, 204);
+}
+
+.customform input:focus-visible {
+  border: 1.5px solid orangered !important;
+}
+
+.customform .btn {
+  width: 100%;
+  padding: .6em;
+  margin-top: .5em;
+}
 
 .customblur {
   padding-top: 1.5em;

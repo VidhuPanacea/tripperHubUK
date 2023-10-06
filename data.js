@@ -305,7 +305,7 @@ const allPackages = [...homePackages,
     description: "",
     suggested: [{}]
 }
-,
+    ,
 {
     id: 48,
     name: "Nainital Corbett Honeymoon Tour",
@@ -328,7 +328,7 @@ const allPackages = [...homePackages,
     description: "",
     suggested: [{}]
 }
-,
+    ,
 {
     id: 50,
     name: "Jageshwar Dham Tour",
@@ -548,7 +548,7 @@ const allPackages = [...homePackages,
 },
 ];
 
-const cats = ["All", "Adventure", "Trekking and Hiking", "Wildlife", "Honeymoon", "Family"];
+const cats = ["All", "Adventure", "Trekking and Hiking", "Wildlife", "Pilgrimage", "Honeymoon", "Family"];
 
 //selects the Element on the detialed package page
 // var cat = document.querySelector('#cat');
@@ -584,10 +584,10 @@ function renderAllPackages1(arr) {
             <span class="days">${pkg.duration}</span>
             <h3><a href='packageDetails.html?id=${pkg.id}&name=${pkg.name}'>${pkg.name}</a></h3>
             <p class="location"><span class="fa fa-map-marker"></span> ${pkg.destinations}</p>
-            <ul>
-                <li><a href = 'packageDetails.html?id=${pkg.id}&name=${pkg.name}'>Read More >></a></li>
-                
-            </ul>
+            <div style="display:flex;justify-content:space-between;width:100%">
+												<a href = 'packageDetails.html?id=${pkg.id}&name=${pkg.name}' style="width:48%" class="btn btn-primary">Read More</a>
+												<a href = 'packageDetails.html?id=${pkg.id}&name=${pkg.name}' style="width:48%" class="btn btn-primary">Book Now</a>
+										</div>
         </div>
     </div>`
         app.appendChild(div) //finally appends the above code into the DOM

@@ -2895,13 +2895,13 @@ const itineraries = [{
       <div class="accordion-panel">
          <h5>Other Benfits (On Arrival) </h5>
          <ul class="Benfits">
-            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+            <li><img style="width:35px" src="images/meal.svg" alt="meal">
                Breakfast
             </li>
-            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+            <li><img style="width:35px" src="images/transport.svg" alt="transport">
                Transfers
             </li>
-            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+            <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                Stay Included
             </li>
          </ul>
@@ -3021,13 +3021,13 @@ const itineraries = [{
       <div class="accordion-panel">
          <h5>Other Benfits (On Arrival) </h5>
          <ul class="Benfits">
-            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+            <li><img style="width:35px" src="images/meal.svg" alt="meal">
                Breakfast
             </li>
-            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+            <li><img style="width:35px" src="images/transport.svg" alt="transport">
                Transfers
             </li>
-            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+            <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                Stay Included
             </li>
          </ul>
@@ -3093,13 +3093,13 @@ const itineraries = [{
       <div class="accordion-panel">
          <h5>Other Benfits (On Arrival) </h5>
          <ul class="Benfits">
-            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+            <li><img style="width:35px" src="images/meal.svg" alt="meal">
                Breakfast
             </li>
-            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+            <li><img style="width:35px" src="images/transport.svg" alt="transport">
                Transfers
             </li>
-            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+            <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                Stay Included
             </li>
          </ul>
@@ -3156,13 +3156,13 @@ const itineraries = [{
       <div class="accordion-panel">
          <h5>Other Benfits (On Arrival) </h5>
          <ul class="Benfits">
-            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+            <li><img style="width:35px" src="images/meal.svg" alt="meal">
                Breakfast
             </li>
-            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+            <li><img style="width:35px" src="images/transport.svg" alt="transport">
                Transfers
             </li>
-            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+            <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                Stay Included
             </li>
          </ul>
@@ -3228,13 +3228,13 @@ const itineraries = [{
       <div class="accordion-panel">
          <h5>Other Benfits (On Arrival) </h5>
          <ul class="Benfits">
-            <li><img src="../../states/uttarakhand/image/meal.svg" alt="meal">
+            <li><img style="width:35px" src="images/meal.svg" alt="meal">
                Breakfast
             </li>
-            <li><img src="../../states/uttarakhand/image/transport.svg" alt="transport">
+            <li><img style="width:35px" src="images/transport.svg" alt="transport">
                Transfers
             </li>
-            <li><img src="../../states/uttarakhand/image/3-star.svg" alt="star hotel">
+            <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                Stay Included
             </li>
          </ul>
@@ -3318,13 +3318,13 @@ const itineraries = [{
       <div class="accordion-panel">
          <h5>Other Benfits (On Arrival) </h5>
          <ul class="Benfits">
-            <li><img src="images/meal.svg" alt="meal">
+            <li><img style="width:35px" src="images/meal.svg" alt="meal">
                Breakfast
             </li>
-            <li><img src="images/transport.svg" alt="transport">
+            <li><img style="width:35px" src="images/transport.svg" alt="transport">
                Transfers
             </li>
-            <li><img src="images/3-star.svg" alt="star hotel">
+            <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                Stay Included
             </li>
          </ul>
@@ -3384,13 +3384,13 @@ const itineraries = [{
       <div class="accordion-panel">
          <h5>Other Benfits (On Arrival) </h5>
          <ul class="Benfits">
-            <li><img src="images/meal.svg" alt="meal">
+            <li><img style="width:35px" src="images/meal.svg" alt="meal">
                Breakfast
             </li>
-            <li><img src="images/transport.svg" alt="transport">
+            <li><img style="width:35px" src="images/transport.svg" alt="transport">
                Transfers
             </li>
-            <li><img src="images/3-star.svg" alt="star hotel">
+            <li><img style="width:35px" src="images/3-star.svg" alt="star hotel">
                Stay Included
             </li>
          </ul>
