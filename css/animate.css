@@ -6,6 +6,40 @@ Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 Copyright (c) 2015 Daniel Eden
 */
+.offer-ribbon {
+  position: fixed;
+  z-index: 1000;
+  transform: rotate(-90deg);
+  right: -3em !important;
+  background-color: white;
+  padding: .25em 1em;
+  top: 300px;
+  border-top-left-radius: 2.5px;
+  border-top-right-radius: 2.5px;
+}
+.enquire-ribbon {
+  position: fixed;
+  z-index: 1000;
+  transform: rotate(-90deg);
+  right: -3em !important;
+  background-color: orangered;
+  color: white  !important;
+  padding: .25em 1em;
+  top: 500px;
+  border-top-left-radius: 2.5px;
+  border-top-right-radius: 2.5px;
+}
+.enquire-ribbon a{
+  color: white;
+}
+@media (max-width:768px){
+  .offer-ribbon{
+    right: 0;
+  }
+  .enquire-ribbon{
+    right: 0;
+  }
+}
 *:focus {
   outline: none
 }
@@ -13,8 +47,11 @@ Copyright (c) 2015 Daniel Eden
   display: flex;
   overflow-x: scroll;
 }
+#cat::-webkit-scrollbar{
+  display: none;
+}
 #cat div{
-  width: max-content;
+  white-space: nowrap;
 }
 .customform {
   text-align: center;
@@ -97,6 +134,15 @@ Copyright (c) 2015 Daniel Eden
 @media (max-width:768px) {
   .bottom-menu-mobile {
     display: flex;
+  }
+  #cat{
+    position: sticky !important;
+    top: 0;
+    z-index: 100;
+    padding: 1.5em;
+    background-color: white;
+    width: 100%;
+    justify-content: flex-start;
   }
 }
 
